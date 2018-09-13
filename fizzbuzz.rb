@@ -6,5 +6,6 @@
     elsif int % 5 == 0
       "Buzz"
     else int % 15 == 0
-      "FizzBuzz" 
+      "FizzBuzz"
+end
 end
