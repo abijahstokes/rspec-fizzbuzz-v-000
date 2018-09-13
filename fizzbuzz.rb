@@ -7,5 +7,4 @@
       "Buzz"
     else int % 15 == 0
       "FizzBuzz" 
-      
 end
